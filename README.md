@@ -24,11 +24,7 @@ La société « ChopTaPhoto » est une société de location de borne photo trav
 	- Toolbox jetbrains
 	
 
-## Réalisation de la solution technique
-
-## Conclusion
-
-## Documentation : 
+## Mis à jour le : 12.04.19
 
 
 
