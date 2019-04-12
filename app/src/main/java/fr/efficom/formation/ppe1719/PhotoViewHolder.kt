@@ -5,17 +5,15 @@ import android.widget.ImageView
 import android.widget.TextView
 import androidx.recyclerview.widget.RecyclerView
 
-
-class PhotoViewHolder(rootView: View) :RecyclerView.ViewHolder(rootView){
-
-    val likeTextView: TextView
-    val photoImageView: ImageView
-
+class PhotoViewHolder(rootView: View) : RecyclerView.ViewHolder(rootView) {
+    val likeButton:ImageView
+    val photoImageView:ImageView
+    val dateItemTextView:TextView
 
     init {
-        likeTextView = rootView.findViewById(R.id.likeItemTextView)
+        likeButton = rootView.findViewById(R.id.likeButton)
+        dateItemTextView = rootView.findViewById(R.id.dateItemTextView)
         photoImageView = rootView.findViewById(R.id.photoItemImageView)
     }
-
 
 }

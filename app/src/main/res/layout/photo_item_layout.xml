@@ -11,11 +11,31 @@
             android:id="@+id/photoItemImageView" app:layout_constraintTop_toTopOf="parent"
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            android:layout_marginStart="4dp" app:layout_constraintVertical_bias="0.067"/>
+    />
+    <TextView
+            android:text="Date"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/textView2"
+            android:layout_marginStart="16dp"
+            app:layout_constraintStart_toEndOf="@+id/photoItemImageView"
+            app:layout_constraintBottom_toBottomOf="parent"
+            android:layout_marginBottom="16dp"/>
     <TextView
             android:text="TextView"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content" tools:layout_editor_absoluteY="41dp"
-            android:id="@+id/likeItemTextView" app:layout_constraintStart_toEndOf="@+id/photoItemImageView"
-            android:layout_marginStart="8dp" app:layout_constraintEnd_toEndOf="parent" android:layout_marginEnd="8dp"/>
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/dateItemTextView" android:layout_marginStart="8dp"
+            app:layout_constraintStart_toEndOf="@+id/textView2" app:layout_constraintEnd_toEndOf="parent"
+            android:layout_marginEnd="8dp" app:layout_constraintHorizontal_bias="0.12"
+            android:layout_marginBottom="16dp"
+            app:layout_constraintBottom_toBottomOf="parent"
+    />
+    <ImageView
+            android:layout_width="40dp"
+            android:layout_height="40dp" android:src="@drawable/ic_not_love_heart_symbol"
+            android:id="@+id/likeButton" app:layout_constraintTop_toTopOf="parent"
+            android:layout_marginTop="8dp" android:layout_marginStart="8dp"
+            app:layout_constraintStart_toEndOf="@+id/photoItemImageView" app:layout_constraintEnd_toEndOf="parent"
+            android:layout_marginEnd="8dp"/>
 </androidx.constraintlayout.widget.ConstraintLayout>
