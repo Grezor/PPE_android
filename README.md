@@ -5,6 +5,12 @@
 
 La société « ChopTaPhoto » est une société de location de borne photo travaillant principalement dans le Nord. Elle propose ses services auprès de particulier et entreprise, afin de répondre à des événements de type mariage, anniversaire, journée d’intégration, salon, conférences, événements …. 
 
+
+## Ressources fournies :
+ - Cahier des charges 
+ - Langage Utilisé : Kotlin, PHP (pour API)
+ - Outils de versionning : Github (pour le travail collaboratif et la sauvegarde du code source) 
+
 ## Les missions : 
 
 ✔ Les clients peuvent accéder aux photos via un code événement et afficher la  
