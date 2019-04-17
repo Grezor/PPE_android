@@ -29,9 +29,13 @@ Cette application lui permet de consulter et de mettre en favoris (like) les pho
 -	[Google Drive :](https://drive.google.com/drive/folders/1Uu5tUtfxF0Ty3Vu3jz7qFCBFxGE7928p)
 -	[TinyURL google drive :](http://tinyurl.com/y6jxjqnk)
 
+## Trello :
+
+- [Trello] (https://trello.com/b/L8llqB0l/ppe-application-android)
 
 
-## Mis à jour le : 12.04.19
+## Mis à jour le : 
+- 17.04.2019
 
 
 
