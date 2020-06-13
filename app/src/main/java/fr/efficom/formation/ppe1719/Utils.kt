@@ -6,7 +6,8 @@ import retrofit2.converter.gson.GsonConverterFactory
 
 fun createBornesService(): BornesService{
 
-    val urlApi = "https://ibm-patisserie-mysql-php-20190328144518346-turbulent-turtle.eu-gb.mybluemix.net/"
+    // val urlApi = "https://ibm-patisserie-mysql-php-20190328144518346-turbulent-turtle.eu-gb.mybluemix.net/"
+    val urlApi = "http://duplessigeoffrey.fr/"
     val retrofit = Retrofit.Builder().baseUrl(urlApi)
         .addConverterFactory(GsonConverterFactory.create())
         .build()
