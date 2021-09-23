@@ -1,37 +1,31 @@
 # PPE_android (2017/2019)
+```
+⚠️ This project is obsolete.
+```
 
 ## Presentation du projet
 
-La société « ChopTaPhoto » est une société de location de borne photo travaillant principalement dans le Nord. Elle propose ses services auprès de particulier et entreprise, afin de répondre à des événements de type mariage, anniversaire, journée d’intégration, salon, conférences, événements …. 
+The company " ChopTaPhoto " is a rental company of photo terminal working mainly in the North. It offers its services to individuals and companies, in order to respond to events such as weddings, birthdays, integration days, trade shows, conferences, events .... 
 
-## Rôle de l’application 
+## Role of the application 
 
-Le locataire de la borne, va pouvoir consulter les photos prises avec la borne depuis son smartphone via l’application.
-Cette application lui permet de consulter et de mettre en favoris (like) les photos prises durant la réservation.
+The tenant of the kiosk will be able to consult the photos taken with the kiosk from his smartphone via the application.
+This application allows him to consult and bookmark (like) the photos taken during the reservation.
 
 ## Ressources fournies 
- - Cahier des charges 
- - Langage Utilisé : Kotlin, PHP (pour API)
- - Outils de versionning : Github (pour le travail collaboratif et la sauvegarde du code source) 
+ - Specifications 
+ - Language used: Kotlin, PHP (for API)
+ - Versioning tools: Github 
 
-## Information Base de donnée 
 
-## Les missions  
-- Les clients peuvent accéder aux photos via un code événement et afficher la suite des photos
-- Rédaction d'un document de mise en place de l'application et de l’intégration d’une nouvelle borne.
 
-## Environnement de travail
+## Missions  
+- Customers can access the photos via an event code and view the rest of the photos
+- Writing of a document for the implementation of the application and the integration of a new kiosk.
+
+## Working environment
 	- Android Studio 
 	- Toolbox jetbrains
-
-## Liens Google Drive (Galerie)
--	[Google Drive :](https://drive.google.com/drive/folders/1Uu5tUtfxF0Ty3Vu3jz7qFCBFxGE7928p)
--	[TinyURL google drive :](http://tinyurl.com/y6jxjqnk)
-
-## Trello :
-
-- [Trello](https://trello.com/b/L8llqB0l/ppe-application-android)
-
 
 ---
 **Duplessi Geoffrey** 
